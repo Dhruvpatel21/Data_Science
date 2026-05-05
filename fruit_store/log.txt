@@ -1,0 +1,4 @@
+2026-05-05 10:09:02.402755 - Added Apple - Qty:3, Price:50
+2026-05-05 10:09:27.794878 - Added Mango - Qty:7, Price:30
+2026-05-05 10:09:55.922524 - Customer bought Apple - Qty:1, Total:50
+2026-05-05 10:11:34.826934 - Updated Apple - Qty:9, Price:40
